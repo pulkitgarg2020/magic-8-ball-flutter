@@ -14,5 +14,3 @@ I created a magical 8 ball app, which will give you the answers to all the trick
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
 
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
